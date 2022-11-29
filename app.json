@@ -1,6 +1,6 @@
 {
     "name": "hello-node",
     "description": "Hello World NodeJs App",
-    "repository": "https://github.com/ddurgesh28/hw-hello-node",
+    "repository": "https://github.com/MatthewGrouse/HerokuTest",
     "keywords": ["node", "heroku"]
 }
