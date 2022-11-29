@@ -1,0 +1,6 @@
+{
+    "name": "hello-node",
+    "description": "Hello World NodeJs App",
+    "repository": "https://github.com/ddurgesh28/hw-hello-node",
+    "keywords": ["node", "heroku"]
+}
